@@ -18,7 +18,7 @@ Este projeto é uma aplicação web de CRUD (Create, Read, Update, Delete) desen
 2. **Clonando o Projeto**:
    - Faça o download ou clone este repositório para o diretório raiz do seu servidor web:
      ```
-     git clone https://github.com/seu-usuario/CRUD-PHP.git
+     git clone https://github.com/IvysSouza07/gerenciamento_de_tarefas.git
      ```
 
 3. **Configuração do Banco de Dados**:
@@ -49,3 +49,4 @@ Este projeto é uma aplicação web de CRUD (Create, Read, Update, Delete) desen
 ## Observações
 - O projeto pode ser facilmente adaptado para outras finalidades de gerenciamento.
 - Para dúvidas ou sugestões, consulte a documentação dos arquivos ou entre em contato com o desenvolvedor.
+
